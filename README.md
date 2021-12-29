@@ -1,6 +1,6 @@
 # Alpine
 
-[![alpine-3.13](https://github.com/buluma/alpine/actions/workflows/build-3.13.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.13.yml) [![alpine-3.14](https://github.com/buluma/alpine/actions/workflows/build-3.14.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.14.yml) [![alpine-edge](https://github.com/buluma/alpine/actions/workflows/build-edge.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-edge.yml) [![alpine-3.15](https://github.com/buluma/alpine/actions/workflows/build-3.15.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.15.yml)
+[![alpine-3.12](https://github.com/buluma/alpine/actions/workflows/build-3.12.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.12.yml) [![alpine-3.13](https://github.com/buluma/alpine/actions/workflows/build-3.13.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.13.yml) [![alpine-3.14](https://github.com/buluma/alpine/actions/workflows/build-3.14.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.14.yml) [![alpine-edge](https://github.com/buluma/alpine/actions/workflows/build-edge.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-edge.yml) [![alpine-3.15](https://github.com/buluma/alpine/actions/workflows/build-3.15.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.15.yml)
 
 
 Alpine Base Images
