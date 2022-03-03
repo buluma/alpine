@@ -8,8 +8,17 @@ on:
       - '3.12/**'
       - '.github/workflows/build-3.12.yml'
   schedule:
-    - cron: '17 7,10 * * *'
+    - cron: '17 7,14 * * *'
   workflow_dispatch:
+    inputs:
+      debug:
+        type: boolean
+        required: false
+        default: 'false'
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
   # Test the image builds and works correctly.

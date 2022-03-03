@@ -8,8 +8,17 @@ on:
       - 'edge/**'
       - '.github/workflows/build-edge.yml'
   schedule:
-    - cron: '17 9,14 * * *'
+    - cron: '17 9,17 * * *'
   workflow_dispatch:
+    inputs:
+      debug:
+        type: boolean
+        required: false
+        default: 'false'
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
   # Test the image builds and works correctly.
