@@ -1,6 +1,6 @@
 # Alpine
 
-[![alpine-3.12](https://github.com/buluma/alpine/actions/workflows/build-3.12.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.12.yml) [![alpine-3.13](https://github.com/buluma/alpine/actions/workflows/build-3.13.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.13.yml) [![alpine-3.14](https://github.com/buluma/alpine/actions/workflows/build-3.14.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.14.yml) [![alpine-edge](https://github.com/buluma/alpine/actions/workflows/build-edge.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-edge.yml) [![alpine-3.15](https://github.com/buluma/alpine/actions/workflows/build-3.15.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.15.yml)
+[![alpine-3.12](https://github.com/buluma/alpine/actions/workflows/build-3.12.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.12.yml) [![alpine-3.13](https://github.com/buluma/alpine/actions/workflows/build-3.13.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.13.yml) [![alpine-3.14](https://github.com/buluma/alpine/actions/workflows/build-3.14.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.14.yml) [![alpine-edge](https://github.com/buluma/alpine/actions/workflows/build-edge.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-edge.yml) [![alpine-3.16](https://github.com/buluma/alpine/actions/workflows/build-3.16.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.16.yml) [![alpine-3.16](https://github.com/buluma/alpine/actions/workflows/build-3.16.yml/badge.svg)](https://github.com/buluma/alpine/actions/workflows/build-3.16.yml)
 
 
 Alpine Base Images
@@ -12,7 +12,8 @@ Where to get help: the Docker Community Forums, the Docker Community Slack, or S
 
 ## Supported tags and respective Dockerfile links
 20210804, edge
-3.15.0, 3.15, 3, latest
+3.16.0, 3.16, 3, latest
+3.15.0, 3.15
 3.14.3, 3.14
 3.13.7, 3.13
 3.12.9, 3.12
