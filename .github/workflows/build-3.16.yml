@@ -75,4 +75,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ${{ github.repository }}:3.16, ${{ github.repository }}:latest
+            ${{ github.repository }}:3.16
