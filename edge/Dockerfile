@@ -1,6 +1,7 @@
 FROM alpine:edge
 
 LABEL maintainer="Michael Buluma"
+LABEL build_date="2023-11-26"
 
 RUN \
     apk update && \

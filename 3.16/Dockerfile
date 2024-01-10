@@ -1,5 +1,6 @@
 FROM alpine:3.16
 LABEL maintainer="Michael Buluma"
+LABEL build_date="2023-11-26"
 
 RUN \
     apk update && \
